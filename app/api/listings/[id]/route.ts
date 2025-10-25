@@ -1,13 +1,14 @@
-import { NextResponse } from "next/server";
+import { NextResponse, type NextRequest } from "next/server";
 import { supabase } from "@/lib/supabase/client";
 import { Review } from "@/app/types/review.type";
 
 export async function GET(
-  request: Request,
-  { params }: { params: { id: string } }
+  request: NextRequest,
+  context: { params: { id: string } | Promise<{ id: string }> }
 ) {
-  // Use params.id if present; otherwise parse the id from the request URL as a fallback.
-  const idFromParams = params?.id;
+  // await params in case Next passes a Promise
+  const paramsObj = await context.params;
+  const idFromParams = paramsObj?.id;
   const url = new URL(request.url);
   const idFromPath = url.pathname.split("/").filter(Boolean).pop();
   const id = idFromParams ?? idFromPath;
@@ -68,6 +69,9 @@ export async function GET(
         { status: 200 }
       );
     }
+
+    // explicit fallback if no data found
+    return NextResponse.json({ error: "Listing not found" }, { status: 404 });
   } catch (err) {
     return NextResponse.json(
       { error: "Internal server error" },
