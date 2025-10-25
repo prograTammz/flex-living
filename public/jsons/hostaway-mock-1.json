@@ -1,0 +1,3785 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 10204,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-27 00:37:00",
+      "channelId": 2010,
+      "listingMapId": 38,
+      "departureDate": "2021-08-29 12:00:00",
+      "arrivalDate": "2021-08-30 12:00:00",
+      "guestName": "Ava Thomas",
+      "listingName": "Magnificent 2 Bed Flat in Cricklewood - The Flex London"
+    },
+    {
+      "id": 10139,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-16 04:23:00",
+      "channelId": 2001,
+      "listingMapId": 24,
+      "departureDate": "2021-08-20 12:00:00",
+      "arrivalDate": "2021-08-16 12:00:00",
+      "guestName": "Emma Anderson",
+      "listingName": "Beautiful Canal-Side Apartment in Islington - The Flex London"
+    },
+    {
+      "id": 10203,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-12 16:51:00",
+      "channelId": 2005,
+      "listingMapId": 38,
+      "departureDate": "2021-08-17 12:00:00",
+      "arrivalDate": "2021-08-12 12:00:00",
+      "guestName": "Mia Wilson",
+      "listingName": "Magnificent 2 Bed Flat in Cricklewood - The Flex London"
+    },
+    {
+      "id": 10005,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-03 02:12:00",
+      "channelId": 2005,
+      "listingMapId": 1,
+      "departureDate": "2021-07-03 12:00:00",
+      "arrivalDate": "2021-07-03 12:00:00",
+      "guestName": "Mia Brown",
+      "listingName": "Peaceful 2 Bed Flat in Chiswick - The Flex London"
+    },
+    {
+      "id": 10082,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-28 00:23:00",
+      "channelId": 2005,
+      "listingMapId": 15,
+      "departureDate": "2021-08-01 12:00:00",
+      "arrivalDate": "2021-07-29 12:00:00",
+      "guestName": "Zoe Davis",
+      "listingName": "Cosy Flat Near Wandsworth Common - The Flex London"
+    },
+    {
+      "id": 10238,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-13 02:46:00",
+      "channelId": 2001,
+      "listingMapId": 45,
+      "departureDate": "2021-08-17 12:00:00",
+      "arrivalDate": "2021-08-12 12:00:00",
+      "guestName": "Sophia Lopez",
+      "listingName": "Magnificent  2 Bed Flat in Elephant & Castle - The Flex London"
+    },
+    {
+      "id": 10046,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-27 19:50:00",
+      "channelId": 2001,
+      "listingMapId": 8,
+      "departureDate": "2021-08-01 12:00:00",
+      "arrivalDate": "2021-07-30 12:00:00",
+      "guestName": "Liam Brown",
+      "listingName": "Immaculate House with Garden in Clapham - The Flex London"
+    },
+    {
+      "id": 10054,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-29 01:39:00",
+      "channelId": 2005,
+      "listingMapId": 10,
+      "departureDate": "2021-09-02 12:00:00",
+      "arrivalDate": "2021-09-01 12:00:00",
+      "guestName": "Liam Jackson",
+      "listingName": "Immaculate 2 Bed Flat in West Kensington - The Flex London"
+    },
+    {
+      "id": 10061,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-19 13:41:00",
+      "channelId": 2005,
+      "listingMapId": 11,
+      "departureDate": "2021-07-20 12:00:00",
+      "arrivalDate": "2021-07-23 12:00:00",
+      "guestName": "Liam Moore",
+      "listingName": "Lavish 1 Bed Flat near Broadway Market - The Flex London"
+    },
+    {
+      "id": 10196,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-18 18:37:00",
+      "channelId": 2003,
+      "listingMapId": 37,
+      "departureDate": "2021-07-19 12:00:00",
+      "arrivalDate": "2021-07-19 12:00:00",
+      "guestName": "Harper Martin",
+      "listingName": "Magnificent 2 Bed, 2 Bath Apartment in Bow - The Flex London"
+    },
+    {
+      "id": 10121,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-12 14:06:00",
+      "channelId": 2005,
+      "listingMapId": 21,
+      "departureDate": "2021-08-17 12:00:00",
+      "arrivalDate": "2021-08-14 12:00:00",
+      "guestName": "Isabella Lee",
+      "listingName": "Spacious 2 Bed Apartment with Garden in Fulham - The Flex London"
+    },
+    {
+      "id": 10120,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-11 23:54:00",
+      "channelId": 2005,
+      "listingMapId": 21,
+      "departureDate": "2021-08-15 12:00:00",
+      "arrivalDate": "2021-08-13 12:00:00",
+      "guestName": "Emma Finkelstein",
+      "listingName": "Spacious 2 Bed Apartment with Garden in Fulham - The Flex London"
+    },
+    {
+      "id": 10188,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-17 14:53:00",
+      "channelId": 2001,
+      "listingMapId": 35,
+      "departureDate": "2021-08-18 12:00:00",
+      "arrivalDate": "2021-08-17 12:00:00",
+      "guestName": "Ethan Lopez",
+      "listingName": "Fabulous 2 Bed Garden Flat in Islington - The Flex London"
+    },
+    {
+      "id": 10227,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-21 01:42:00",
+      "channelId": 2010,
+      "listingMapId": 42,
+      "departureDate": "2021-08-24 12:00:00",
+      "arrivalDate": "2021-08-23 12:00:00",
+      "guestName": "Ava Anderson",
+      "listingName": "Elegant 2 Bed Flat near Camden Market - The Flex London"
+    },
+    {
+      "id": 10069,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-04 13:50:00",
+      "channelId": 2001,
+      "listingMapId": 13,
+      "departureDate": "2021-07-05 12:00:00",
+      "arrivalDate": "2021-07-05 12:00:00",
+      "guestName": "Olivia Davis",
+      "listingName": "Bright Flat near West Ealing - The Flex London"
+    },
+    {
+      "id": 10083,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-25 16:56:00",
+      "channelId": 2003,
+      "listingMapId": 15,
+      "departureDate": "2021-08-26 12:00:00",
+      "arrivalDate": "2021-08-27 12:00:00",
+      "guestName": "Harper Thomas",
+      "listingName": "Cosy Flat Near Wandsworth Common - The Flex London"
+    },
+    {
+      "id": 10187,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-07 00:15:00",
+      "channelId": 2010,
+      "listingMapId": 35,
+      "departureDate": "2021-07-11 12:00:00",
+      "arrivalDate": "2021-07-10 12:00:00",
+      "guestName": "James Lopez",
+      "listingName": "Fabulous 2 Bed Garden Flat in Islington - The Flex London"
+    },
+    {
+      "id": 10038,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-27 04:34:00",
+      "channelId": 2010,
+      "listingMapId": 7,
+      "departureDate": "2021-07-28 12:00:00",
+      "arrivalDate": "2021-07-28 12:00:00",
+      "guestName": "Elijah Jackson",
+      "listingName": "Modern 2 Bed Flat in Shoreditch - The Flex London"
+    },
+    {
+      "id": 10096,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-26 13:51:00",
+      "channelId": 2001,
+      "listingMapId": 17,
+      "departureDate": "2021-07-27 12:00:00",
+      "arrivalDate": "2021-07-26 12:00:00",
+      "guestName": "Noah Lee",
+      "listingName": "Inviting 1 Bed Flat in Archway - The Flex London"
+    },
+    {
+      "id": 10033,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-21 17:53:00",
+      "channelId": 2010,
+      "listingMapId": 7,
+      "departureDate": "2021-08-24 12:00:00",
+      "arrivalDate": "2021-08-22 12:00:00",
+      "guestName": "Mia Patel",
+      "listingName": "Modern 2 Bed Flat in Shoreditch - The Flex London"
+    },
+    {
+      "id": 10178,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-05 09:44:00",
+      "channelId": 2001,
+      "listingMapId": 34,
+      "departureDate": "2021-07-05 12:00:00",
+      "arrivalDate": "2021-07-04 12:00:00",
+      "guestName": "Olivia White",
+      "listingName": "Trendy 1 Bed Flat by St Katharine Docks - The Flex London"
+    },
+    {
+      "id": 10051,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-15 15:38:00",
+      "channelId": 2005,
+      "listingMapId": 10,
+      "departureDate": "2021-08-20 12:00:00",
+      "arrivalDate": "2021-08-19 12:00:00",
+      "guestName": "James Moore",
+      "listingName": "Immaculate 2 Bed Flat in West Kensington - The Flex London"
+    },
+    {
+      "id": 10245,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-23 16:11:00",
+      "channelId": 2005,
+      "listingMapId": 46,
+      "departureDate": "2021-07-28 12:00:00",
+      "arrivalDate": "2021-07-25 12:00:00",
+      "guestName": "Mason Smith",
+      "listingName": "Luxurious Villa in Shepherd's Bush - The Flex London"
+    },
+    {
+      "id": 10152,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-18 09:00:00",
+      "channelId": 2003,
+      "listingMapId": 27,
+      "departureDate": "2021-08-20 12:00:00",
+      "arrivalDate": "2021-08-19 12:00:00",
+      "guestName": "Ava Johnson",
+      "listingName": "Beautiful Studio Flat in Pimlico - The Flex London"
+    },
+    {
+      "id": 10206,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-14 06:52:00",
+      "channelId": 2010,
+      "listingMapId": 38,
+      "departureDate": "2021-07-18 12:00:00",
+      "arrivalDate": "2021-07-14 12:00:00",
+      "guestName": "Amelia Finkelstein",
+      "listingName": "Magnificent 2 Bed Flat in Cricklewood - The Flex London"
+    },
+    {
+      "id": 10180,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-14 18:04:00",
+      "channelId": 2001,
+      "listingMapId": 34,
+      "departureDate": "2021-07-18 12:00:00",
+      "arrivalDate": "2021-07-16 12:00:00",
+      "guestName": "Sophia Moore",
+      "listingName": "Trendy 1 Bed Flat by St Katharine Docks - The Flex London"
+    },
+    {
+      "id": 10215,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-15 20:45:00",
+      "channelId": 2003,
+      "listingMapId": 40,
+      "departureDate": "2021-07-16 12:00:00",
+      "arrivalDate": "2021-07-19 12:00:00",
+      "guestName": "Lucas White",
+      "listingName": "Elegant 2 Bedroom Apartment in Battersea - The Flex London"
+    },
+    {
+      "id": 10001,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-20 18:14:00",
+      "channelId": 2001,
+      "listingMapId": 1,
+      "departureDate": "2021-08-21 12:00:00",
+      "arrivalDate": "2021-08-24 12:00:00",
+      "guestName": "Zoe Taylor",
+      "listingName": "Peaceful 2 Bed Flat in Chiswick - The Flex London"
+    },
+    {
+      "id": 10029,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-04 17:56:00",
+      "channelId": 2005,
+      "listingMapId": 6,
+      "departureDate": "2021-08-09 12:00:00",
+      "arrivalDate": "2021-08-07 12:00:00",
+      "guestName": "Elijah Lee",
+      "listingName": "Bright 1 Bed Flat on Vibrant Brick Lane - The Flex London"
+    },
+    {
+      "id": 10234,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-02 09:43:00",
+      "channelId": 2003,
+      "listingMapId": 44,
+      "departureDate": "2021-07-03 12:00:00",
+      "arrivalDate": "2021-07-05 12:00:00",
+      "guestName": "Mason Finkelstein",
+      "listingName": "Spacious 2 Bed Apartment in Willesden - The Flex London"
+    },
+    {
+      "id": 10246,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-05 01:10:00",
+      "channelId": 2005,
+      "listingMapId": 46,
+      "departureDate": "2021-08-09 12:00:00",
+      "arrivalDate": "2021-08-08 12:00:00",
+      "guestName": "Lucas White",
+      "listingName": "Luxurious Villa in Shepherd's Bush - The Flex London"
+    },
+    {
+      "id": 10192,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-05 21:10:00",
+      "channelId": 2010,
+      "listingMapId": 36,
+      "departureDate": "2021-08-09 12:00:00",
+      "arrivalDate": "2021-08-07 12:00:00",
+      "guestName": "Elijah Martin",
+      "listingName": "Modern Studio with Balcony in Hackney - The Flex London"
+    },
+    {
+      "id": 10092,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-15 09:32:00",
+      "channelId": 2003,
+      "listingMapId": 16,
+      "departureDate": "2021-07-16 12:00:00",
+      "arrivalDate": "2021-07-15 12:00:00",
+      "guestName": "James Martin",
+      "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London"
+    },
+    {
+      "id": 10090,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-30 01:37:00",
+      "channelId": 2001,
+      "listingMapId": 16,
+      "departureDate": "2021-08-30 12:00:00",
+      "arrivalDate": "2021-08-30 12:00:00",
+      "guestName": "Liam Harris",
+      "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London"
+    },
+    {
+      "id": 10162,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-09 15:52:00",
+      "channelId": 2005,
+      "listingMapId": 30,
+      "departureDate": "2021-07-11 12:00:00",
+      "arrivalDate": "2021-07-12 12:00:00",
+      "guestName": "Mia Walker",
+      "listingName": "Stunning 2 Bed Flat by Richmond Park - The Flex London"
+    },
+    {
+      "id": 10147,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-26 12:37:00",
+      "channelId": 2010,
+      "listingMapId": 26,
+      "departureDate": "2021-07-31 12:00:00",
+      "arrivalDate": "2021-07-27 12:00:00",
+      "guestName": "Mia Finkelstein",
+      "listingName": "Modern 1 Bed Flat in Greenwich - The Flex London"
+    },
+    {
+      "id": 10036,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-28 07:36:00",
+      "channelId": 2010,
+      "listingMapId": 7,
+      "departureDate": "2021-07-30 12:00:00",
+      "arrivalDate": "2021-07-28 12:00:00",
+      "guestName": "Ethan Wilson",
+      "listingName": "Modern 2 Bed Flat in Shoreditch - The Flex London"
+    },
+    {
+      "id": 10184,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-23 19:01:00",
+      "channelId": 2001,
+      "listingMapId": 35,
+      "departureDate": "2021-08-28 12:00:00",
+      "arrivalDate": "2021-08-24 12:00:00",
+      "guestName": "Liam Walker",
+      "listingName": "Fabulous 2 Bed Garden Flat in Islington - The Flex London"
+    },
+    {
+      "id": 10010,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-30 15:27:00",
+      "channelId": 2010,
+      "listingMapId": 2,
+      "departureDate": "2021-09-01 12:00:00",
+      "arrivalDate": "2021-09-02 12:00:00",
+      "guestName": "Elijah Taylor",
+      "listingName": "Elegant 1 Bedroom Apartment in Bermondsey - The Flex London"
+    },
+    {
+      "id": 10086,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-19 05:32:00",
+      "channelId": 2010,
+      "listingMapId": 16,
+      "departureDate": "2021-07-19 12:00:00",
+      "arrivalDate": "2021-07-22 12:00:00",
+      "guestName": "Shane Smith",
+      "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London"
+    },
+    {
+      "id": 10151,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-18 19:28:00",
+      "channelId": 2001,
+      "listingMapId": 27,
+      "departureDate": "2021-07-22 12:00:00",
+      "arrivalDate": "2021-07-22 12:00:00",
+      "guestName": "Mason Walker",
+      "listingName": "Beautiful Studio Flat in Pimlico - The Flex London"
+    },
+    {
+      "id": 10170,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-29 22:22:00",
+      "channelId": 2005,
+      "listingMapId": 32,
+      "departureDate": "2021-08-03 12:00:00",
+      "arrivalDate": "2021-08-01 12:00:00",
+      "guestName": "Harper Taylor",
+      "listingName": "Spacious 2 Bed Apartment in Maida Vale - The Flex London"
+    },
+    {
+      "id": 10039,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-03 16:52:00",
+      "channelId": 2003,
+      "listingMapId": 8,
+      "departureDate": "2021-08-07 12:00:00",
+      "arrivalDate": "2021-08-06 12:00:00",
+      "guestName": "Mason Lopez",
+      "listingName": "Immaculate House with Garden in Clapham - The Flex London"
+    },
+    {
+      "id": 10157,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-27 13:34:00",
+      "channelId": 2010,
+      "listingMapId": 29,
+      "departureDate": "2021-07-31 12:00:00",
+      "arrivalDate": "2021-07-29 12:00:00",
+      "guestName": "Mason Lee",
+      "listingName": "Superb 4 Bed Apartment in Wood Green - The Flex London"
+    },
+    {
+      "id": 10006,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-20 23:39:00",
+      "channelId": 2010,
+      "listingMapId": 1,
+      "departureDate": "2021-07-24 12:00:00",
+      "arrivalDate": "2021-07-20 12:00:00",
+      "guestName": "Zoe Wilson",
+      "listingName": "Peaceful 2 Bed Flat in Chiswick - The Flex London"
+    },
+    {
+      "id": 10240,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-20 18:32:00",
+      "channelId": 2003,
+      "listingMapId": 46,
+      "departureDate": "2021-07-23 12:00:00",
+      "arrivalDate": "2021-07-22 12:00:00",
+      "guestName": "James White",
+      "listingName": "Luxurious Villa in Shepherd's Bush - The Flex London"
+    },
+    {
+      "id": 10236,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-14 12:28:00",
+      "channelId": 2005,
+      "listingMapId": 44,
+      "departureDate": "2021-08-17 12:00:00",
+      "arrivalDate": "2021-08-15 12:00:00",
+      "guestName": "Emma Thomas",
+      "listingName": "Spacious 2 Bed Apartment in Willesden - The Flex London"
+    },
+    {
+      "id": 10148,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-18 15:33:00",
+      "channelId": 2010,
+      "listingMapId": 26,
+      "departureDate": "2021-07-22 12:00:00",
+      "arrivalDate": "2021-07-18 12:00:00",
+      "guestName": "Isabella Finkelstein",
+      "listingName": "Modern 1 Bed Flat in Greenwich - The Flex London"
+    },
+    {
+      "id": 10225,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-11 15:03:00",
+      "channelId": 2010,
+      "listingMapId": 42,
+      "departureDate": "2021-07-16 12:00:00",
+      "arrivalDate": "2021-07-12 12:00:00",
+      "guestName": "Noah Patel",
+      "listingName": "Elegant 2 Bed Flat near Camden Market - The Flex London"
+    },
+    {
+      "id": 10111,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-22 06:37:00",
+      "channelId": 2005,
+      "listingMapId": 20,
+      "departureDate": "2021-07-25 12:00:00",
+      "arrivalDate": "2021-07-24 12:00:00",
+      "guestName": "Isabella Smith",
+      "listingName": "Cosy Flat near Dalston Junction - The Flex London"
+    },
+    {
+      "id": 10099,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-23 20:03:00",
+      "channelId": 2001,
+      "listingMapId": 17,
+      "departureDate": "2021-07-25 12:00:00",
+      "arrivalDate": "2021-07-25 12:00:00",
+      "guestName": "Charlotte Wilson",
+      "listingName": "Inviting 1 Bed Flat in Archway - The Flex London"
+    },
+    {
+      "id": 10056,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-05 14:59:00",
+      "channelId": 2003,
+      "listingMapId": 10,
+      "departureDate": "2021-08-06 12:00:00",
+      "arrivalDate": "2021-08-07 12:00:00",
+      "guestName": "Lucas White",
+      "listingName": "Immaculate 2 Bed Flat in West Kensington - The Flex London"
+    },
+    {
+      "id": 10130,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-17 13:21:00",
+      "channelId": 2001,
+      "listingMapId": 23,
+      "departureDate": "2021-07-21 12:00:00",
+      "arrivalDate": "2021-07-20 12:00:00",
+      "guestName": "Harper Anderson",
+      "listingName": "Cosy studio Apartment near Hyde Park - The Flex London"
+    },
+    {
+      "id": 10032,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-16 11:03:00",
+      "channelId": 2010,
+      "listingMapId": 6,
+      "departureDate": "2021-08-18 12:00:00",
+      "arrivalDate": "2021-08-18 12:00:00",
+      "guestName": "Elijah Davis",
+      "listingName": "Bright 1 Bed Flat on Vibrant Brick Lane - The Flex London"
+    },
+    {
+      "id": 10109,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-30 07:38:00",
+      "channelId": 2005,
+      "listingMapId": 19,
+      "departureDate": "2021-09-03 12:00:00",
+      "arrivalDate": "2021-08-31 12:00:00",
+      "guestName": "James White",
+      "listingName": "Beautiful Stylish 2 Bed Flat Clerkenwell - The Flex London"
+    },
+    {
+      "id": 10230,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-22 09:06:00",
+      "channelId": 2001,
+      "listingMapId": 43,
+      "departureDate": "2021-07-24 12:00:00",
+      "arrivalDate": "2021-07-22 12:00:00",
+      "guestName": "James White",
+      "listingName": "Sumptuous 2 Bed Garden Villa in Balham - The Flex London"
+    },
+    {
+      "id": 10064,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-25 08:44:00",
+      "channelId": 2003,
+      "listingMapId": 12,
+      "departureDate": "2021-07-28 12:00:00",
+      "arrivalDate": "2021-07-28 12:00:00",
+      "guestName": "Charlotte Moore",
+      "listingName": "2 Bed Apartment in Woolwich - The Flex London"
+    },
+    {
+      "id": 10076,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-02 14:34:00",
+      "channelId": 2005,
+      "listingMapId": 14,
+      "departureDate": "2021-08-05 12:00:00",
+      "arrivalDate": "2021-08-04 12:00:00",
+      "guestName": "Harper Lee",
+      "listingName": "Exceptional 2 Bed Flat near Dulwich Park - The Flex London"
+    },
+    {
+      "id": 10163,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-11 10:12:00",
+      "channelId": 2005,
+      "listingMapId": 31,
+      "departureDate": "2021-08-11 12:00:00",
+      "arrivalDate": "2021-08-14 12:00:00",
+      "guestName": "Sophia Martin",
+      "listingName": "Stunning 2 Bed Apartment in Bow - The Flex London"
+    },
+    {
+      "id": 10019,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-02 23:35:00",
+      "channelId": 2005,
+      "listingMapId": 3,
+      "departureDate": "2021-08-05 12:00:00",
+      "arrivalDate": "2021-08-05 12:00:00",
+      "guestName": "Mia Johnson",
+      "listingName": "Elegant 1 Bed Apartment in Peckham - The Flex London"
+    },
+    {
+      "id": 10235,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-26 08:27:00",
+      "channelId": 2001,
+      "listingMapId": 44,
+      "departureDate": "2021-08-27 12:00:00",
+      "arrivalDate": "2021-08-29 12:00:00",
+      "guestName": "Elijah Wilson",
+      "listingName": "Spacious 2 Bed Apartment in Willesden - The Flex London"
+    },
+    {
+      "id": 10186,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-09 04:24:00",
+      "channelId": 2001,
+      "listingMapId": 35,
+      "departureDate": "2021-08-09 12:00:00",
+      "arrivalDate": "2021-08-12 12:00:00",
+      "guestName": "Charlotte Davis",
+      "listingName": "Fabulous 2 Bed Garden Flat in Islington - The Flex London"
+    },
+    {
+      "id": 10125,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-06 03:22:00",
+      "channelId": 2005,
+      "listingMapId": 22,
+      "departureDate": "2021-08-09 12:00:00",
+      "arrivalDate": "2021-08-06 12:00:00",
+      "guestName": "James Moore",
+      "listingName": "Comfortable 2 Bed Flat near Walthamstow Market - The Flex London"
+    },
+    {
+      "id": 10077,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-10 19:13:00",
+      "channelId": 2003,
+      "listingMapId": 14,
+      "departureDate": "2021-08-12 12:00:00",
+      "arrivalDate": "2021-08-12 12:00:00",
+      "guestName": "Ava Martin",
+      "listingName": "Exceptional 2 Bed Flat near Dulwich Park - The Flex London"
+    },
+    {
+      "id": 10169,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-01 13:51:00",
+      "channelId": 2003,
+      "listingMapId": 31,
+      "departureDate": "2021-07-06 12:00:00",
+      "arrivalDate": "2021-07-03 12:00:00",
+      "guestName": "Charlotte Anderson",
+      "listingName": "Stunning 2 Bed Apartment in Bow - The Flex London"
+    },
+    {
+      "id": 10144,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-14 04:44:00",
+      "channelId": 2001,
+      "listingMapId": 25,
+      "departureDate": "2021-07-14 12:00:00",
+      "arrivalDate": "2021-07-14 12:00:00",
+      "guestName": "Harper Patel",
+      "listingName": "Peaceful 2 Bed Flat in Islington - The Flex London"
+    },
+    {
+      "id": 10208,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-08 08:44:00",
+      "channelId": 2010,
+      "listingMapId": 39,
+      "departureDate": "2021-08-08 12:00:00",
+      "arrivalDate": "2021-08-11 12:00:00",
+      "guestName": "Zoe Moore",
+      "listingName": "1 Bed Flat in Colindale - The Flex London"
+    },
+    {
+      "id": 10216,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-13 17:52:00",
+      "channelId": 2001,
+      "listingMapId": 40,
+      "departureDate": "2021-07-15 12:00:00",
+      "arrivalDate": "2021-07-17 12:00:00",
+      "guestName": "Ethan Harris",
+      "listingName": "Elegant 2 Bedroom Apartment in Battersea - The Flex London"
+    },
+    {
+      "id": 10242,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-16 02:09:00",
+      "channelId": 2005,
+      "listingMapId": 46,
+      "departureDate": "2021-08-18 12:00:00",
+      "arrivalDate": "2021-08-18 12:00:00",
+      "guestName": "Mason Martin",
+      "listingName": "Luxurious Villa in Shepherd's Bush - The Flex London"
+    },
+    {
+      "id": 10217,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-13 12:03:00",
+      "channelId": 2010,
+      "listingMapId": 41,
+      "departureDate": "2021-08-18 12:00:00",
+      "arrivalDate": "2021-08-17 12:00:00",
+      "guestName": "Liam Finkelstein",
+      "listingName": "Spacious 1 Bed Flat in Angel - The Flex London"
+    },
+    {
+      "id": 10175,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-25 13:08:00",
+      "channelId": 2005,
+      "listingMapId": 33,
+      "departureDate": "2021-07-27 12:00:00",
+      "arrivalDate": "2021-07-25 12:00:00",
+      "guestName": "Mason Thomas",
+      "listingName": "Bright 1 Bed Apartment in Bow with Balcony - The Flex London"
+    },
+    {
+      "id": 10124,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-23 16:07:00",
+      "channelId": 2003,
+      "listingMapId": 22,
+      "departureDate": "2021-08-27 12:00:00",
+      "arrivalDate": "2021-08-25 12:00:00",
+      "guestName": "Olivia Johnson",
+      "listingName": "Comfortable 2 Bed Flat near Walthamstow Market - The Flex London"
+    },
+    {
+      "id": 10189,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-13 17:30:00",
+      "channelId": 2005,
+      "listingMapId": 35,
+      "departureDate": "2021-07-15 12:00:00",
+      "arrivalDate": "2021-07-13 12:00:00",
+      "guestName": "Zoe Johnson",
+      "listingName": "Fabulous 2 Bed Garden Flat in Islington - The Flex London"
+    },
+    {
+      "id": 10185,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-29 04:25:00",
+      "channelId": 2001,
+      "listingMapId": 35,
+      "departureDate": "2021-07-29 12:00:00",
+      "arrivalDate": "2021-07-31 12:00:00",
+      "guestName": "Lucas Walker",
+      "listingName": "Fabulous 2 Bed Garden Flat in Islington - The Flex London"
+    },
+    {
+      "id": 10098,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-20 15:46:00",
+      "channelId": 2010,
+      "listingMapId": 17,
+      "departureDate": "2021-07-22 12:00:00",
+      "arrivalDate": "2021-07-23 12:00:00",
+      "guestName": "Elijah Brown",
+      "listingName": "Inviting 1 Bed Flat in Archway - The Flex London"
+    },
+    {
+      "id": 10028,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-09 00:23:00",
+      "channelId": 2005,
+      "listingMapId": 6,
+      "departureDate": "2021-08-10 12:00:00",
+      "arrivalDate": "2021-08-11 12:00:00",
+      "guestName": "Mason Patel",
+      "listingName": "Bright 1 Bed Flat on Vibrant Brick Lane - The Flex London"
+    },
+    {
+      "id": 10071,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-30 09:31:00",
+      "channelId": 2010,
+      "listingMapId": 13,
+      "departureDate": "2021-08-03 12:00:00",
+      "arrivalDate": "2021-07-31 12:00:00",
+      "guestName": "Elijah Lee",
+      "listingName": "Bright Flat near West Ealing - The Flex London"
+    },
+    {
+      "id": 10073,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-08 15:36:00",
+      "channelId": 2005,
+      "listingMapId": 14,
+      "departureDate": "2021-07-10 12:00:00",
+      "arrivalDate": "2021-07-11 12:00:00",
+      "guestName": "Mia Lee",
+      "listingName": "Exceptional 2 Bed Flat near Dulwich Park - The Flex London"
+    },
+    {
+      "id": 10091,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-20 20:25:00",
+      "channelId": 2001,
+      "listingMapId": 16,
+      "departureDate": "2021-07-21 12:00:00",
+      "arrivalDate": "2021-07-22 12:00:00",
+      "guestName": "Mia Lopez",
+      "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London"
+    },
+    {
+      "id": 10025,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-03 11:06:00",
+      "channelId": 2003,
+      "listingMapId": 5,
+      "departureDate": "2021-07-03 12:00:00",
+      "arrivalDate": "2021-07-04 12:00:00",
+      "guestName": "Charlotte Martin",
+      "listingName": "Stylish Apartment in Barbican - The Flex London"
+    },
+    {
+      "id": 10095,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-13 20:33:00",
+      "channelId": 2010,
+      "listingMapId": 17,
+      "departureDate": "2021-07-16 12:00:00",
+      "arrivalDate": "2021-07-16 12:00:00",
+      "guestName": "Isabella Harris",
+      "listingName": "Inviting 1 Bed Flat in Archway - The Flex London"
+    },
+    {
+      "id": 10248,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-17 00:55:00",
+      "channelId": 2005,
+      "listingMapId": 47,
+      "departureDate": "2021-08-20 12:00:00",
+      "arrivalDate": "2021-08-19 12:00:00",
+      "guestName": "Harper Anderson",
+      "listingName": "Stylish 2 Bed Flat near Stratford Station - The Flex London"
+    },
+    {
+      "id": 10053,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-25 08:13:00",
+      "channelId": 2003,
+      "listingMapId": 10,
+      "departureDate": "2021-08-25 12:00:00",
+      "arrivalDate": "2021-08-27 12:00:00",
+      "guestName": "James Wilson",
+      "listingName": "Immaculate 2 Bed Flat in West Kensington - The Flex London"
+    },
+    {
+      "id": 10108,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-14 05:49:00",
+      "channelId": 2010,
+      "listingMapId": 19,
+      "departureDate": "2021-07-17 12:00:00",
+      "arrivalDate": "2021-07-15 12:00:00",
+      "guestName": "Isabella Wilson",
+      "listingName": "Beautiful Stylish 2 Bed Flat Clerkenwell - The Flex London"
+    },
+    {
+      "id": 10063,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-29 20:46:00",
+      "channelId": 2003,
+      "listingMapId": 12,
+      "departureDate": "2021-09-01 12:00:00",
+      "arrivalDate": "2021-08-29 12:00:00",
+      "guestName": "Amelia White",
+      "listingName": "2 Bed Apartment in Woolwich - The Flex London"
+    },
+    {
+      "id": 10104,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-21 21:00:00",
+      "channelId": 2001,
+      "listingMapId": 19,
+      "departureDate": "2021-08-24 12:00:00",
+      "arrivalDate": "2021-08-24 12:00:00",
+      "guestName": "Charlotte Davis",
+      "listingName": "Beautiful Stylish 2 Bed Flat Clerkenwell - The Flex London"
+    },
+    {
+      "id": 10166,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-15 09:37:00",
+      "channelId": 2001,
+      "listingMapId": 31,
+      "departureDate": "2021-08-19 12:00:00",
+      "arrivalDate": "2021-08-14 12:00:00",
+      "guestName": "Isabella Johnson",
+      "listingName": "Stunning 2 Bed Apartment in Bow - The Flex London"
+    },
+    {
+      "id": 10202,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-03 22:00:00",
+      "channelId": 2003,
+      "listingMapId": 38,
+      "departureDate": "2021-08-08 12:00:00",
+      "arrivalDate": "2021-08-07 12:00:00",
+      "guestName": "Emma Smith",
+      "listingName": "Magnificent 2 Bed Flat in Cricklewood - The Flex London"
+    },
+    {
+      "id": 10087,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-29 05:44:00",
+      "channelId": 2010,
+      "listingMapId": 16,
+      "departureDate": "2021-08-02 12:00:00",
+      "arrivalDate": "2021-07-29 12:00:00",
+      "guestName": "Ethan Lee",
+      "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London"
+    },
+    {
+      "id": 10205,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-07 16:25:00",
+      "channelId": 2001,
+      "listingMapId": 38,
+      "departureDate": "2021-07-10 12:00:00",
+      "arrivalDate": "2021-07-09 12:00:00",
+      "guestName": "Liam Thomas",
+      "listingName": "Magnificent 2 Bed Flat in Cricklewood - The Flex London"
+    },
+    {
+      "id": 10002,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-06 05:34:00",
+      "channelId": 2001,
+      "listingMapId": 1,
+      "departureDate": "2021-07-08 12:00:00",
+      "arrivalDate": "2021-07-09 12:00:00",
+      "guestName": "Noah Thomas",
+      "listingName": "Peaceful 2 Bed Flat in Chiswick - The Flex London"
+    },
+    {
+      "id": 10173,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-24 01:39:00",
+      "channelId": 2003,
+      "listingMapId": 33,
+      "departureDate": "2021-08-24 12:00:00",
+      "arrivalDate": "2021-08-24 12:00:00",
+      "guestName": "Olivia Lee",
+      "listingName": "Bright 1 Bed Apartment in Bow with Balcony - The Flex London"
+    },
+    {
+      "id": 10057,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-23 16:17:00",
+      "channelId": 2001,
+      "listingMapId": 11,
+      "departureDate": "2021-07-24 12:00:00",
+      "arrivalDate": "2021-07-25 12:00:00",
+      "guestName": "Mason Smith",
+      "listingName": "Lavish 1 Bed Flat near Broadway Market - The Flex London"
+    },
+    {
+      "id": 10229,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-08 01:41:00",
+      "channelId": 2001,
+      "listingMapId": 43,
+      "departureDate": "2021-08-08 12:00:00",
+      "arrivalDate": "2021-08-08 12:00:00",
+      "guestName": "Zoe Johnson",
+      "listingName": "Sumptuous 2 Bed Garden Villa in Balham - The Flex London"
+    },
+    {
+      "id": 10250,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-26 18:32:00",
+      "channelId": 2001,
+      "listingMapId": 47,
+      "departureDate": "2021-08-30 12:00:00",
+      "arrivalDate": "2021-08-27 12:00:00",
+      "guestName": "Elijah Wilson",
+      "listingName": "Stylish 2 Bed Flat near Stratford Station - The Flex London"
+    },
+    {
+      "id": 10126,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-02 05:20:00",
+      "channelId": 2001,
+      "listingMapId": 22,
+      "departureDate": "2021-07-06 12:00:00",
+      "arrivalDate": "2021-07-01 12:00:00",
+      "guestName": "Zoe Martin",
+      "listingName": "Comfortable 2 Bed Flat near Walthamstow Market - The Flex London"
+    },
+    {
+      "id": 10177,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-16 17:03:00",
+      "channelId": 2003,
+      "listingMapId": 34,
+      "departureDate": "2021-07-21 12:00:00",
+      "arrivalDate": "2021-07-20 12:00:00",
+      "guestName": "Mason Taylor",
+      "listingName": "Trendy 1 Bed Flat by St Katharine Docks - The Flex London"
+    },
+    {
+      "id": 10115,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-20 09:10:00",
+      "channelId": 2003,
+      "listingMapId": 20,
+      "departureDate": "2021-07-24 12:00:00",
+      "arrivalDate": "2021-07-22 12:00:00",
+      "guestName": "Sophia Martin",
+      "listingName": "Cosy Flat near Dalston Junction - The Flex London"
+    },
+    {
+      "id": 10113,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-03 04:26:00",
+      "channelId": 2001,
+      "listingMapId": 20,
+      "departureDate": "2021-07-05 12:00:00",
+      "arrivalDate": "2021-07-03 12:00:00",
+      "guestName": "Zoe Anderson",
+      "listingName": "Cosy Flat near Dalston Junction - The Flex London"
+    },
+    {
+      "id": 10044,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-31 04:32:00",
+      "channelId": 2005,
+      "listingMapId": 8,
+      "departureDate": "2021-09-03 12:00:00",
+      "arrivalDate": "2021-09-03 12:00:00",
+      "guestName": "Ava Patel",
+      "listingName": "Immaculate House with Garden in Clapham - The Flex London"
+    },
+    {
+      "id": 10183,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-31 22:47:00",
+      "channelId": 2003,
+      "listingMapId": 34,
+      "departureDate": "2021-08-03 12:00:00",
+      "arrivalDate": "2021-07-31 12:00:00",
+      "guestName": "James Martin",
+      "listingName": "Trendy 1 Bed Flat by St Katharine Docks - The Flex London"
+    },
+    {
+      "id": 10055,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-25 22:13:00",
+      "channelId": 2001,
+      "listingMapId": 10,
+      "departureDate": "2021-08-26 12:00:00",
+      "arrivalDate": "2021-08-25 12:00:00",
+      "guestName": "Ava Thomas",
+      "listingName": "Immaculate 2 Bed Flat in West Kensington - The Flex London"
+    },
+    {
+      "id": 10101,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-17 20:31:00",
+      "channelId": 2001,
+      "listingMapId": 18,
+      "departureDate": "2021-07-22 12:00:00",
+      "arrivalDate": "2021-07-18 12:00:00",
+      "guestName": "Emma Martin",
+      "listingName": "Nice 1 Bed Flat with Balcony in Woolwich - The Flex London"
+    },
+    {
+      "id": 10105,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-17 15:53:00",
+      "channelId": 2005,
+      "listingMapId": 19,
+      "departureDate": "2021-07-22 12:00:00",
+      "arrivalDate": "2021-07-21 12:00:00",
+      "guestName": "Charlotte Lee",
+      "listingName": "Beautiful Stylish 2 Bed Flat Clerkenwell - The Flex London"
+    },
+    {
+      "id": 10161,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-04 01:53:00",
+      "channelId": 2001,
+      "listingMapId": 30,
+      "departureDate": "2021-08-06 12:00:00",
+      "arrivalDate": "2021-08-07 12:00:00",
+      "guestName": "Ethan Walker",
+      "listingName": "Stunning 2 Bed Flat by Richmond Park - The Flex London"
+    },
+    {
+      "id": 10228,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-28 20:16:00",
+      "channelId": 2003,
+      "listingMapId": 43,
+      "departureDate": "2021-07-30 12:00:00",
+      "arrivalDate": "2021-07-30 12:00:00",
+      "guestName": "James Lopez",
+      "listingName": "Sumptuous 2 Bed Garden Villa in Balham - The Flex London"
+    },
+    {
+      "id": 10003,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-01 10:42:00",
+      "channelId": 2001,
+      "listingMapId": 1,
+      "departureDate": "2021-08-05 12:00:00",
+      "arrivalDate": "2021-07-31 12:00:00",
+      "guestName": "Ava Jackson",
+      "listingName": "Peaceful 2 Bed Flat in Chiswick - The Flex London"
+    },
+    {
+      "id": 10167,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-13 08:16:00",
+      "channelId": 2001,
+      "listingMapId": 31,
+      "departureDate": "2021-08-14 12:00:00",
+      "arrivalDate": "2021-08-16 12:00:00",
+      "guestName": "Lucas Davis",
+      "listingName": "Stunning 2 Bed Apartment in Bow - The Flex London"
+    },
+    {
+      "id": 10024,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-18 19:46:00",
+      "channelId": 2003,
+      "listingMapId": 4,
+      "departureDate": "2021-08-21 12:00:00",
+      "arrivalDate": "2021-08-22 12:00:00",
+      "guestName": "Amelia Lee",
+      "listingName": "Stylish 1 Bed Apartment in Highbury with Balcony - The Flex London"
+    },
+    {
+      "id": 10138,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-22 22:18:00",
+      "channelId": 2001,
+      "listingMapId": 24,
+      "departureDate": "2021-08-23 12:00:00",
+      "arrivalDate": "2021-08-22 12:00:00",
+      "guestName": "Zoe White",
+      "listingName": "Beautiful Canal-Side Apartment in Islington - The Flex London"
+    },
+    {
+      "id": 10141,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-22 10:03:00",
+      "channelId": 2003,
+      "listingMapId": 24,
+      "departureDate": "2021-08-23 12:00:00",
+      "arrivalDate": "2021-08-23 12:00:00",
+      "guestName": "Noah Brown",
+      "listingName": "Beautiful Canal-Side Apartment in Islington - The Flex London"
+    },
+    {
+      "id": 10106,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-11 23:31:00",
+      "channelId": 2001,
+      "listingMapId": 19,
+      "departureDate": "2021-07-14 12:00:00",
+      "arrivalDate": "2021-07-15 12:00:00",
+      "guestName": "Mia Finkelstein",
+      "listingName": "Beautiful Stylish 2 Bed Flat Clerkenwell - The Flex London"
+    },
+    {
+      "id": 10209,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-06 06:58:00",
+      "channelId": 2005,
+      "listingMapId": 39,
+      "departureDate": "2021-08-08 12:00:00",
+      "arrivalDate": "2021-08-06 12:00:00",
+      "guestName": "Ethan Martin",
+      "listingName": "1 Bed Flat in Colindale - The Flex London"
+    },
+    {
+      "id": 10237,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-30 07:03:00",
+      "channelId": 2010,
+      "listingMapId": 45,
+      "departureDate": "2021-09-01 12:00:00",
+      "arrivalDate": "2021-09-02 12:00:00",
+      "guestName": "Ava Anderson",
+      "listingName": "Magnificent  2 Bed Flat in Elephant & Castle - The Flex London"
+    },
+    {
+      "id": 10022,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-14 11:03:00",
+      "channelId": 2003,
+      "listingMapId": 4,
+      "departureDate": "2021-08-18 12:00:00",
+      "arrivalDate": "2021-08-17 12:00:00",
+      "guestName": "Noah Brown",
+      "listingName": "Stylish 1 Bed Apartment in Highbury with Balcony - The Flex London"
+    },
+    {
+      "id": 10174,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-08 10:12:00",
+      "channelId": 2005,
+      "listingMapId": 33,
+      "departureDate": "2021-07-11 12:00:00",
+      "arrivalDate": "2021-07-11 12:00:00",
+      "guestName": "Shane Lopez",
+      "listingName": "Bright 1 Bed Apartment in Bow with Balcony - The Flex London"
+    },
+    {
+      "id": 10214,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-07 00:35:00",
+      "channelId": 2010,
+      "listingMapId": 39,
+      "departureDate": "2021-07-07 12:00:00",
+      "arrivalDate": "2021-07-08 12:00:00",
+      "guestName": "Shane Martin",
+      "listingName": "1 Bed Flat in Colindale - The Flex London"
+    },
+    {
+      "id": 10097,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "value",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-15 14:36:00",
+      "channelId": 2001,
+      "listingMapId": 17,
+      "departureDate": "2021-08-18 12:00:00",
+      "arrivalDate": "2021-08-19 12:00:00",
+      "guestName": "Ava White",
+      "listingName": "Inviting 1 Bed Flat in Archway - The Flex London"
+    },
+    {
+      "id": 10197,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-14 13:41:00",
+      "channelId": 2010,
+      "listingMapId": 37,
+      "departureDate": "2021-07-15 12:00:00",
+      "arrivalDate": "2021-07-15 12:00:00",
+      "guestName": "Charlotte Thomas",
+      "listingName": "Magnificent 2 Bed, 2 Bath Apartment in Bow - The Flex London"
+    },
+    {
+      "id": 10176,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-28 08:12:00",
+      "channelId": 2010,
+      "listingMapId": 34,
+      "departureDate": "2021-07-30 12:00:00",
+      "arrivalDate": "2021-07-29 12:00:00",
+      "guestName": "Shane Smith",
+      "listingName": "Trendy 1 Bed Flat by St Katharine Docks - The Flex London"
+    },
+    {
+      "id": 10132,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-06 13:50:00",
+      "channelId": 2005,
+      "listingMapId": 23,
+      "departureDate": "2021-08-09 12:00:00",
+      "arrivalDate": "2021-08-08 12:00:00",
+      "guestName": "Olivia Wilson",
+      "listingName": "Cosy studio Apartment near Hyde Park - The Flex London"
+    },
+    {
+      "id": 10031,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-20 20:44:00",
+      "channelId": 2003,
+      "listingMapId": 6,
+      "departureDate": "2021-08-21 12:00:00",
+      "arrivalDate": "2021-08-22 12:00:00",
+      "guestName": "Amelia Thomas",
+      "listingName": "Bright 1 Bed Flat on Vibrant Brick Lane - The Flex London"
+    },
+    {
+      "id": 10172,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-05 03:24:00",
+      "channelId": 2003,
+      "listingMapId": 33,
+      "departureDate": "2021-08-05 12:00:00",
+      "arrivalDate": "2021-08-07 12:00:00",
+      "guestName": "Ava Finkelstein",
+      "listingName": "Bright 1 Bed Apartment in Bow with Balcony - The Flex London"
+    },
+    {
+      "id": 10059,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-05 02:45:00",
+      "channelId": 2010,
+      "listingMapId": 11,
+      "departureDate": "2021-08-06 12:00:00",
+      "arrivalDate": "2021-08-07 12:00:00",
+      "guestName": "Elijah Lee",
+      "listingName": "Lavish 1 Bed Flat near Broadway Market - The Flex London"
+    },
+    {
+      "id": 10143,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "accuracy",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-07-13 23:38:00",
+      "channelId": 2005,
+      "listingMapId": 25,
+      "departureDate": "2021-07-15 12:00:00",
+      "arrivalDate": "2021-07-14 12:00:00",
+      "guestName": "Lucas Anderson",
+      "listingName": "Peaceful 2 Bed Flat in Islington - The Flex London"
+    },
+    {
+      "id": 10136,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-30 15:51:00",
+      "channelId": 2005,
+      "listingMapId": 24,
+      "departureDate": "2021-08-04 12:00:00",
+      "arrivalDate": "2021-08-01 12:00:00",
+      "guestName": "Mia Finkelstein",
+      "listingName": "Beautiful Canal-Side Apartment in Islington - The Flex London"
+    },
+    {
+      "id": 10075,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "accuracy",
+          "rating": 8
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-24 12:39:00",
+      "channelId": 2003,
+      "listingMapId": 14,
+      "departureDate": "2021-07-29 12:00:00",
+      "arrivalDate": "2021-07-24 12:00:00",
+      "guestName": "Amelia Anderson",
+      "listingName": "Exceptional 2 Bed Flat near Dulwich Park - The Flex London"
+    },
+    {
+      "id": 10160,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Location was perfect and communication was fast.",
+      "reviewCategory": [
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-11 23:24:00",
+      "channelId": 2003,
+      "listingMapId": 30,
+      "departureDate": "2021-08-16 12:00:00",
+      "arrivalDate": "2021-08-13 12:00:00",
+      "guestName": "Liam Finkelstein",
+      "listingName": "Stunning 2 Bed Flat by Richmond Park - The Flex London"
+    },
+    {
+      "id": 10100,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Exactly as described. Would recommend to friends.",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "value",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-24 14:45:00",
+      "channelId": 2005,
+      "listingMapId": 18,
+      "departureDate": "2021-08-27 12:00:00",
+      "arrivalDate": "2021-08-27 12:00:00",
+      "guestName": "Charlotte Johnson",
+      "listingName": "Nice 1 Bed Flat with Balcony in Woolwich - The Flex London"
+    },
+    {
+      "id": 10114,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Great value, quiet building, comfy beds.",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "cleanliness",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-26 01:25:00",
+      "channelId": 2001,
+      "listingMapId": 20,
+      "departureDate": "2021-08-26 12:00:00",
+      "arrivalDate": "2021-08-27 12:00:00",
+      "guestName": "Lucas Smith",
+      "listingName": "Cosy Flat near Dalston Junction - The Flex London"
+    },
+    {
+      "id": 10168,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Host was super responsive. Five stars!",
+      "reviewCategory": [
+        {
+          "category": "value",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-07-26 12:36:00",
+      "channelId": 2001,
+      "listingMapId": 31,
+      "departureDate": "2021-07-30 12:00:00",
+      "arrivalDate": "2021-07-27 12:00:00",
+      "guestName": "Lucas Smith",
+      "listingName": "Stunning 2 Bed Apartment in Bow - The Flex London"
+    },
+    {
+      "id": 10107,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-07-15 16:07:00",
+      "channelId": 2003,
+      "listingMapId": 19,
+      "departureDate": "2021-07-18 12:00:00",
+      "arrivalDate": "2021-07-17 12:00:00",
+      "guestName": "James Martin",
+      "listingName": "Beautiful Stylish 2 Bed Flat Clerkenwell - The Flex London"
+    },
+    {
+      "id": 10159,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "reviewCategory": [
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2021-08-15 08:43:00",
+      "channelId": 2001,
+      "listingMapId": 29,
+      "departureDate": "2021-08-15 12:00:00",
+      "arrivalDate": "2021-08-14 12:00:00",
+      "guestName": "Mason White",
+      "listingName": "Superb 4 Bed Apartment in Wood Green - The Flex London"
+    },
+    {
+      "id": 10165,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Loved the neighborhood vibe and amenities.",
+      "reviewCategory": [
+        {
+          "category": "checkin",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "value",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2021-08-25 15:13:00",
+      "channelId": 2001,
+      "listingMapId": 31,
+      "departureDate": "2021-08-26 12:00:00",
+      "arrivalDate": "2021-08-25 12:00:00",
+      "guestName": "Olivia Harris",
+      "listingName": "Stunning 2 Bed Apartment in Bow - The Flex London"
+    },
+    {
+      "id": 10009,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Very clean and stylish flat. Check-in was smooth.",
+      "reviewCategory": [
+        {
+          "category": "accuracy",
+          "rating": 9
+        },
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "checkin",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2021-08-20 13:17:00",
+      "channelId": 2003,
+      "listingMapId": 2,
+      "departureDate": "2021-08-25 12:00:00",
+      "arrivalDate": "2021-08-20 12:00:00",
+      "guestName": "Lucas Thomas",
+      "listingName": "Elegant 1 Bedroom Apartment in Bermondsey - The Flex London"
+    }
+  ]
+}
