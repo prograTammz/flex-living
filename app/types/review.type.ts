@@ -16,18 +16,22 @@ export enum Channel {
   google = 2022,
 }
 
-export type Review = {
-  //core
-  id: number;
-  listingId: number;
+export type CoreReview = {
+  id?: number;
   rating: number;
   message: string;
   reviewerName: string;
-  reviewCategory: [ReviewCategory];
+};
+
+export type Review = CoreReview & {
+  //core
+  listingId?: number;
+  reviewCategory: ReviewCategory[];
   //info
   channel: Channel;
   type: "host-to-guest" | "guest-to-host";
   source: "hostaway" | "google";
+  sourceId?: string;
   //status
   isPublic: boolean;
   status:
@@ -46,4 +50,13 @@ export type Review = {
 export type ReviewCategory = {
   category: string;
   rating: number;
+};
+
+// New: describe query params used when requesting reviews (channel + sort/order)
+export type ReviewsQuery = {
+  channel?: string | Channel;
+  // sort field: "recent" or "rating"
+  sort?: "recent" | "rating";
+  // order only applicable when sort === "rating"
+  order?: "asc" | "desc";
 };

@@ -14,11 +14,33 @@ import {
   PawPrint,
   Music,
   Lock,
+  Star,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Listing } from "@/app/types/listing.type";
+import { AggregatedListing } from "@/app/types/listing.type";
 
-export default function ListingInfo({ listing }: { listing: Listing }) {
+const renderStars = (rating: number) => {
+  return (
+    <div className="flex gap-1">
+      {[1, 2, 3, 4, 5].map((star) => (
+        <Star
+          key={star}
+          className={`h-4 w-4 ${
+            star <= Math.round(rating)
+              ? "fill-yellow-400 text-yellow-400"
+              : "text-gray-300"
+          }`}
+        />
+      ))}
+    </div>
+  );
+};
+
+export default function ListingInfo({
+  listing,
+}: {
+  listing: AggregatedListing;
+}) {
   return (
     <>
       <h1 className="text-2xl md:text-3xl font-bold mb-4">{listing.title}</h1>
@@ -157,6 +179,45 @@ export default function ListingInfo({ listing }: { listing: Listing }) {
         </div>
         <div className="w-full h-80 bg-gray-200 rounded-lg mb-4 flex items-center justify-center">
           <p className="text-gray-500">Map placeholder</p>
+        </div>
+      </Card>
+
+      <Card className="p-6 bg-white">
+        <h2 className="text-xl font-bold mb-6">Reviews</h2>
+        <div className="mb-6 p-4 bg-blue-50 rounded-lg border border-blue-200">
+          <div className="flex items-center justify-between">
+            <div>
+              <p className="text-sm text-gray-600">Overall Rating</p>
+              <div className="flex items-center gap-3 mt-2">
+                {renderStars(listing.avgRating ?? 0)}
+                <span className="text-2xl font-bold text-gray-900">
+                  {(listing.avgRating ?? 0).toFixed(1)}/5
+                </span>
+              </div>
+            </div>
+            <div className="text-right">
+              <p className="text-sm text-gray-600">Total Reviews</p>
+              <p className="text-2xl font-bold text-gray-900">
+                {listing.reviewsCount}
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div className="space-y-6">
+          {listing.reviews.map((review) => (
+            <div key={review.id} className="pb-6 border-b last:border-b-0">
+              <div className="flex justify-between items-start mb-2">
+                <div>
+                  <p className="font-semibold text-gray-900">
+                    {review.reviewerName}
+                  </p>
+                </div>
+              </div>
+              <div className="mb-3">{renderStars(review.rating)}</div>
+              <p className="text-gray-700">{review.message}</p>
+            </div>
+          ))}
         </div>
       </Card>
     </>

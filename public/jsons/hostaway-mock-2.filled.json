@@ -5,7 +5,7 @@
       "id": 10204,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -33,8 +33,8 @@
       "id": 10139,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "communication",
@@ -61,7 +61,7 @@
       "id": 10203,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -89,8 +89,8 @@
       "id": 10005,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "respect_house_rules",
@@ -117,7 +117,7 @@
       "id": 10082,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -145,7 +145,7 @@
       "id": 10238,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -173,7 +173,7 @@
       "id": 10046,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -201,7 +201,7 @@
       "id": 10054,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -229,7 +229,7 @@
       "id": 10061,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -257,7 +257,7 @@
       "id": 10196,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -285,7 +285,7 @@
       "id": 10121,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -313,7 +313,7 @@
       "id": 10120,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -341,7 +341,7 @@
       "id": 10188,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -369,7 +369,7 @@
       "id": 10227,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -397,7 +397,7 @@
       "id": 10069,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -425,8 +425,8 @@
       "id": 10083,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "checkin",
@@ -453,7 +453,7 @@
       "id": 10187,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -481,7 +481,7 @@
       "id": 10038,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -509,7 +509,7 @@
       "id": 10096,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -537,7 +537,7 @@
       "id": 10033,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -565,7 +565,7 @@
       "id": 10133,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -593,7 +593,7 @@
       "id": 10181,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -621,7 +621,7 @@
       "id": 10052,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -649,7 +649,7 @@
       "id": 10231,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -677,7 +677,7 @@
       "id": 10179,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -705,7 +705,7 @@
       "id": 10094,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -733,7 +733,7 @@
       "id": 10043,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -761,7 +761,7 @@
       "id": 10222,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -789,7 +789,7 @@
       "id": 10058,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -817,7 +817,7 @@
       "id": 10017,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -845,7 +845,7 @@
       "id": 10233,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -873,8 +873,8 @@
       "id": 10150,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "accuracy",
@@ -901,7 +901,7 @@
       "id": 10079,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -929,7 +929,7 @@
       "id": 10110,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -957,7 +957,7 @@
       "id": 10146,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -985,7 +985,7 @@
       "id": 10020,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -1013,7 +1013,7 @@
       "id": 10078,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -1041,7 +1041,7 @@
       "id": 10040,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -1069,7 +1069,7 @@
       "id": 10045,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -1097,7 +1097,7 @@
       "id": 10007,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -1125,7 +1125,7 @@
       "id": 10195,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -1153,7 +1153,7 @@
       "id": 10016,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -1181,7 +1181,7 @@
       "id": 10198,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -1209,7 +1209,7 @@
       "id": 10232,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -1237,7 +1237,7 @@
       "id": 10210,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -1265,8 +1265,8 @@
       "id": 10201,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "accuracy",
@@ -1293,7 +1293,7 @@
       "id": 10093,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -1321,7 +1321,7 @@
       "id": 10221,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -1349,7 +1349,7 @@
       "id": 10119,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -1377,7 +1377,7 @@
       "id": 10004,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -1405,7 +1405,7 @@
       "id": 10145,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -1433,8 +1433,8 @@
       "id": 10129,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "cleanliness",
@@ -1461,7 +1461,7 @@
       "id": 10182,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -1489,7 +1489,7 @@
       "id": 10244,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -1517,7 +1517,7 @@
       "id": 10118,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -1545,7 +1545,7 @@
       "id": 10154,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -1573,7 +1573,7 @@
       "id": 10158,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -1601,8 +1601,8 @@
       "id": 10211,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "value",
@@ -1629,7 +1629,7 @@
       "id": 10013,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -1657,7 +1657,7 @@
       "id": 10000,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -1685,8 +1685,8 @@
       "id": 10116,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "respect_house_rules",
@@ -1713,7 +1713,7 @@
       "id": 10137,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -1741,7 +1741,7 @@
       "id": 10156,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -1769,7 +1769,7 @@
       "id": 10142,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -1797,7 +1797,7 @@
       "id": 10102,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -1825,7 +1825,7 @@
       "id": 10042,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -1853,8 +1853,8 @@
       "id": 10008,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "accuracy",
@@ -1881,8 +1881,8 @@
       "id": 10088,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "cleanliness",
@@ -1909,7 +1909,7 @@
       "id": 10037,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -1937,8 +1937,8 @@
       "id": 10080,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "checkin",
@@ -1965,7 +1965,7 @@
       "id": 10065,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -1993,7 +1993,7 @@
       "id": 10122,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -2021,7 +2021,7 @@
       "id": 10027,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -2049,7 +2049,7 @@
       "id": 10060,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -2077,8 +2077,8 @@
       "id": 10048,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 10,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "respect_house_rules",
@@ -2105,8 +2105,8 @@
       "id": 10241,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "accuracy",
@@ -2133,7 +2133,7 @@
       "id": 10219,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -2161,7 +2161,7 @@
       "id": 10194,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -2189,8 +2189,8 @@
       "id": 10072,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "respect_house_rules",
@@ -2217,7 +2217,7 @@
       "id": 10030,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -2245,8 +2245,8 @@
       "id": 10085,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 8,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "cleanliness",
@@ -2273,7 +2273,7 @@
       "id": 10220,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -2301,7 +2301,7 @@
       "id": 10018,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -2329,7 +2329,7 @@
       "id": 10247,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -2357,8 +2357,8 @@
       "id": 10226,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 10,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "communication",
@@ -2385,7 +2385,7 @@
       "id": 10035,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -2413,7 +2413,7 @@
       "id": 10117,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -2441,7 +2441,7 @@
       "id": 10112,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -2469,7 +2469,7 @@
       "id": 10066,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -2497,7 +2497,7 @@
       "id": 10207,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -2525,7 +2525,7 @@
       "id": 10135,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -2553,8 +2553,8 @@
       "id": 10213,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 9,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "respect_house_rules",
@@ -2581,7 +2581,7 @@
       "id": 10155,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -2609,7 +2609,7 @@
       "id": 10011,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -2637,7 +2637,7 @@
       "id": 10131,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -2665,7 +2665,7 @@
       "id": 10047,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -2693,7 +2693,7 @@
       "id": 10070,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -2721,7 +2721,7 @@
       "id": 10200,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -2749,7 +2749,7 @@
       "id": 10049,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -2777,7 +2777,7 @@
       "id": 10034,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -2805,7 +2805,7 @@
       "id": 10164,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -2833,7 +2833,7 @@
       "id": 10193,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -2861,7 +2861,7 @@
       "id": 10014,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -2889,7 +2889,7 @@
       "id": 10134,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -2917,7 +2917,7 @@
       "id": 10127,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -2945,7 +2945,7 @@
       "id": 10084,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -2973,7 +2973,7 @@
       "id": 10062,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -3001,7 +3001,7 @@
       "id": 10249,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -3029,7 +3029,7 @@
       "id": 10023,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -3057,7 +3057,7 @@
       "id": 10243,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -3085,7 +3085,7 @@
       "id": 10041,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -3113,7 +3113,7 @@
       "id": 10223,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -3141,7 +3141,7 @@
       "id": 10128,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -3169,7 +3169,7 @@
       "id": 10199,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -3197,7 +3197,7 @@
       "id": 10123,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -3225,7 +3225,7 @@
       "id": 10012,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -3253,7 +3253,7 @@
       "id": 10224,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -3281,7 +3281,7 @@
       "id": 10218,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -3309,7 +3309,7 @@
       "id": 10103,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -3337,7 +3337,7 @@
       "id": 10190,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -3365,7 +3365,7 @@
       "id": 10067,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -3393,7 +3393,7 @@
       "id": 10140,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Exactly as described. Would recommend to friends.",
       "reviewCategory": [
         {
@@ -3421,7 +3421,7 @@
       "id": 10089,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -3449,8 +3449,8 @@
       "id": 10153,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 10,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "value",
@@ -3477,7 +3477,7 @@
       "id": 10026,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -3505,7 +3505,7 @@
       "id": 10171,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -3533,7 +3533,7 @@
       "id": 10191,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -3561,7 +3561,7 @@
       "id": 10074,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -3589,7 +3589,7 @@
       "id": 10015,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 10,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -3617,7 +3617,7 @@
       "id": 10239,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -3645,7 +3645,7 @@
       "id": 10212,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Location was perfect and communication was fast.",
       "reviewCategory": [
         {
@@ -3673,7 +3673,7 @@
       "id": 10068,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 8,
       "publicReview": "Very clean and stylish flat. Check-in was smooth.",
       "reviewCategory": [
         {
@@ -3701,7 +3701,7 @@
       "id": 10050,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Host was super responsive. Five stars!",
       "reviewCategory": [
         {
@@ -3729,7 +3729,7 @@
       "id": 10021,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Great value, quiet building, comfy beds.",
       "reviewCategory": [
         {
@@ -3757,7 +3757,7 @@
       "id": 10081,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
+      "rating": 9,
       "publicReview": "Loved the neighborhood vibe and amenities.",
       "reviewCategory": [
         {
@@ -3785,8 +3785,8 @@
       "id": 10149,
       "type": "guest-to-host",
       "status": "published",
-      "rating": null,
-      "publicReview": "Wonderful stay \u2014 spotless and cozy. Would definitely return!",
+      "rating": 8,
+      "publicReview": "Wonderful stay — spotless and cozy. Would definitely return!",
       "reviewCategory": [
         {
           "category": "cleanliness",
@@ -3810,6 +3810,6 @@
       "listingName": "Beautiful Studio Flat in Pimlico - The Flex London"
     }
   ],
-  "count": 140,
-  "offset": 140
+  "count": 136,
+  "offset": 135
 }

@@ -22,57 +22,59 @@ export async function GET(
   }
 
   try {
-    const { data, error } = await supabase
+    const { data: listing, error } = await supabase
       .from("Listing")
       .select(
         `*,
         reviews:Review(
           id,
           rating,
-          isPublic
+          message,
+          isPublic,
+          reviewerName
         )`
       )
       .eq("id", id)
       .single();
 
+    // Return Supabase errors as 500 (or adjust mapping if you want specific 404 mapping)
     if (error) {
-      // Map Supabase error to 404 when record not found, otherwise 500
-      // Supabase returns error.message; handle generically
-      return NextResponse.json({ error: error.message }, { status: 404 });
+      return NextResponse.json({ error: error.message }, { status: 500 });
     }
 
-    if (data) {
-      const reviews: Review[] = (data.reviews || []) as Review[];
-      const totalReviews: number = reviews.length;
-
-      const avgRating5: number | null =
-        totalReviews > 0
-          ? reviews.reduce(
-              (sum: number, r: Review) => sum + (r.rating ?? 0) / 2,
-              0
-            ) / totalReviews
-          : null;
-
-      const approvedCount = reviews.filter((r) => r.isPublic).length;
-      const approvalRate =
-        totalReviews > 0 ? approvedCount / totalReviews : null;
-
-      return NextResponse.json(
-        {
-          listing: {
-            ...data,
-            avgRating5,
-            totalReviews,
-            approvalRate,
-          },
-        },
-        { status: 200 }
-      );
+    // If no listing was returned, respond 404
+    if (!listing) {
+      return NextResponse.json({ error: "Listing not found" }, { status: 404 });
     }
 
-    // explicit fallback if no data found
-    return NextResponse.json({ error: "Listing not found" }, { status: 404 });
+    // Ensure reviews is always an array to avoid runtime errors
+    const allReviewsRaw = listing.reviews ?? [];
+    const allReviews: Review[] = Array.isArray(allReviewsRaw)
+      ? allReviewsRaw
+      : [];
+
+    const publicReviews = allReviews.filter((r) => Boolean(r?.isPublic));
+    const countAll = allReviews.length;
+
+    // Use the actual 'rating' field and coerce to number to avoid NaN issues
+    const avgRating =
+      countAll > 0
+        ? allReviews.reduce((s, r) => s + Number(r?.rating ?? 0), 0) / countAll
+        : 0;
+
+    const approvedCount = publicReviews.length;
+    const approvalRate = countAll ? approvedCount / countAll : 0;
+
+    return NextResponse.json({
+      ...listing,
+      reviewsCount: countAll,
+      avgRating,
+      approvedReviews: approvedCount,
+      approvalRate,
+      reviews: publicReviews,
+    });
   } catch (err) {
+    console.log(err);
     return NextResponse.json(
       { error: "Internal server error" },
       { status: 500 }

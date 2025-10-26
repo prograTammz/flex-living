@@ -3,11 +3,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "next/navigation";
 import { Card } from "@/components/ui/card";
-import type {
-  AggregatedListing,
-  Listing,
-  Photo,
-} from "@/app/types/listing.type";
+import type { AggregatedListing, Photo } from "@/app/types/listing.type";
 // Component imports
 import ImageGallery from "./components/ImageGallery";
 import ListingInfo from "./components/ListingInfo";
@@ -17,7 +13,7 @@ export default function ListingPage() {
   const routeParams = useParams();
   const listingId = parseInt(routeParams.id as string);
 
-  const [listing, setListing] = useState<Listing | null>(null);
+  const [listing, setListing] = useState<AggregatedListing | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 

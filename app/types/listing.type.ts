@@ -1,3 +1,5 @@
+import { CoreReview } from "./review.type";
+
 export type Listing = {
   //core
   id: number;
@@ -23,8 +25,10 @@ export type Listing = {
 };
 
 export type AggregatedListing = Listing & {
-  avgRating5: number | null;
-  totalReviews: number;
+  reviews: CoreReview[];
+  reviewsCount: number;
+  avgRating: number | null;
+  approvedReviews: number;
   approvalRate: number | null;
 };
 
